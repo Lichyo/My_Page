@@ -1,0 +1,138 @@
+body {
+  text-align: center;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  color: #7895B2;
+}
+
+h1 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+img {
+  width: 30%;
+}
+
+#title {
+  background-color: #F5EFE6;
+}
+
+/* top-section */
+#feature {
+  background-color: #F5EFE6;
+  padding: 3% 7%;
+}
+
+.feature-text {
+  text-align: left;
+}
+
+.title {
+  font-family: 'Caveat', cursive;
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
+.top-section-img {
+  width: 60%;
+
+}
+
+.top-section {
+  font-weight: bold;
+}
+
+.btn {
+  margin: 10% 4% 5% 0;
+}
+
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+/* AboutMe */
+
+#About-Me {
+  padding: 5% 7%;
+}
+
+.teacher {
+  text-align: left;
+}
+
+.teacher-img {
+  float: left;
+  margin-right: 20%;
+}
+
+.cuber {
+  text-align: right;
+}
+
+.cuber-img {
+  float: right;
+  margin-left: 20%;
+}
+
+#coding {
+  padding: 5% 7%;
+  text-align: center;
+  background-color: #7895B2;
+}
+
+#coding h2 {
+  color: #F5EFE6;
+}
+
+#coding p {
+  font-family: 'Caveat', cursive;
+  margin-left: 0;
+  padding-top: 15%;
+}
+
+.dev-img {
+  width: 15%;
+  float: left;
+  padding-top: 3%;
+  transform: rotate(10deg);
+  margin-left: 40%;
+  border-radius: 15%;
+}
+
+#pricing {
+  padding: 5% 7%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.pricing-col {
+  padding: 5% 3%;
+}
+
+.card-body {
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+}
