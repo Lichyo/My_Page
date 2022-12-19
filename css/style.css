@@ -108,7 +108,12 @@ img {
 #coding p {
   font-family: 'Caveat', cursive;
   margin-left: 0;
-  padding-top: 15%;
+  padding-top: 10%;
+  font-size: 3.5rem;
+}
+
+.download-botton {
+  padding-left: 3%;
 }
 
 .dev-img {
@@ -135,4 +140,11 @@ img {
 .card-body {
   text-align: left;
   font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* footer */
+#footer {
+  padding: 5% 15%;
+  background-color: #E8DFCA;
 }
