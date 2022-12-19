@@ -142,6 +142,10 @@ img {
   font-family: 'Ubuntu', sans-serif;
 }
 
+#pricing p {
+  color: #8f8f8f;
+}
+
 
 /* footer */
 #footer {
