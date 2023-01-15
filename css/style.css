@@ -33,6 +33,10 @@ img {
   width: 30%;
 }
 
+video {
+  width: 50%;
+}
+
 #title {
   background-color: #F5EFE6;
 }
